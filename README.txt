@@ -1,5 +1,3 @@
-# inccCalc
-INCC calculator based on monthly rates.
 inccCalc version 1.0.
 Type 'help' for help, 'stop' to end the program.
 ---------------------------------------------------
